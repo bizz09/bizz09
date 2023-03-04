@@ -1,4 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0e986466-7f85-450d-917d-4175c4a6bb5a/deploy-status)](https://app.netlify.com/sites/running-text1/deploys)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zufrds_) 
