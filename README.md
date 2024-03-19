@@ -1,4 +1,4 @@
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<efg_31>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<681708408394874979>)
 
 
 ## 🌐 Socials:
