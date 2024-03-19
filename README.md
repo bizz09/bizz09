@@ -1,3 +1,5 @@
+![My Discord](https://discord-readme-badge.vercel.app/api?id=681708408394874979)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zufrds_) 
